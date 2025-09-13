@@ -1,1 +1,1 @@
-const data = "testdata"; 
+const data = "testdata" 
